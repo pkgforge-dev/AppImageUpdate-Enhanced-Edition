@@ -77,9 +77,9 @@ wget "$LIB4BN" -O ./AppDir/lib4bin && (
 
 	# We need a newer version of glibc since the current one doesn't support --argv0
 	if [ "$ARCH" = x86_64 ]; then
-		wget http://ftp.us.debian.org/debian/pool/main/g/glibc/libc6_2.41-7_amd64.deb
+		wget http://ftp.us.debian.org/debian/pool/main/g/glibc/libc6_2.41-12_amd64.deb
 	else
-		wget http://ftp.us.debian.org/debian/pool/main/g/glibc/libc6_2.41-7_arm64.deb
+		wget http://ftp.us.debian.org/debian/pool/main/g/glibc/libc6_2.41-12_arm64.deb
 	fi
 	ar x *.deb
 	tar fx data.tar.xz
