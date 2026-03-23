@@ -1,3 +1,10 @@
+# ⚠️ DEPRECATED ⚠️
+
+# Superseded by https://github.com/pkgforge-dev/AppImageUpdate
+
+---
+
+
 # AppImageUpdate Enhanced Edition 🐧
 
 [![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/AppImageUpdate-Enhanced-Edition/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/AppImageUpdate-Enhanced-Edition/releases/latest)
